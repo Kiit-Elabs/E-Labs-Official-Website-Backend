@@ -1,14 +1,14 @@
-import React, { useCallback } from "react";
-import { useToPng } from "@hugocxl/react-to-image";
 import {
-  Input,
-  Image,
+  Alert,
   Autocomplete,
   AutocompleteItem,
-  Form,
   Button,
-  Alert,
+  Form,
+  Image,
+  Input,
 } from "@heroui/react";
+import { useToPng } from "@hugocxl/react-to-image";
+import React from "react";
 import {
   FaCamera,
   FaEnvelope,
@@ -44,6 +44,8 @@ const domains = [
 ];
 
 const AddMember = () => {
+  const [isError, setIsError] = React.useState(false);
+  const [isLoading, setIsLoading] = React.useState(true);
   const [submitted, setSubmitted] = React.useState(null);
   const [previewUrl, setPreviewUrl] = React.useState(null);
 
@@ -72,15 +74,29 @@ const AddMember = () => {
   }, [previewUrl]);
 
   React.useEffect(() => {
-    if (submitted) {
-      console.log(submitted);
-      // Call backend API to submit data
-    }
+    const sendData = async function () {
+      if (submitted) {
+        setIsLoading(true);
+        setIsError(false);
+        const data = await fetch("http://localhost:8000/member/add-member", {
+          method: "POST",
+          body: submitted,
+        });
+        const parsedData = await data.json();
+        if (data.status !== 200) {
+          console.error(parsedData);
+          setSubmitted(null);
+          setIsError(true);
+        }
+        setIsLoading(false);
+      }
+    };
+    sendData();
   }, [submitted]);
 
   const onSubmit = (e) => {
     e.preventDefault();
-    const data = Object.fromEntries(new FormData(e.currentTarget));
+    const data = new FormData(e.currentTarget);
     setSubmitted(data);
   };
 
@@ -303,7 +319,7 @@ const AddMember = () => {
                 Reset
               </Button>
             </div>
-            {submitted && (
+            {!isError && !isLoading && (
               <Alert
                 color="success"
                 className="w-full  -mt-4"
@@ -327,6 +343,21 @@ const AddMember = () => {
                       Download Virtual ID
                     </h1>
                   </Button>
+                </div>
+              </Alert>
+            )}
+            {isError && !isLoading && (
+              <Alert
+                color="danger"
+                className="w-full  -mt-4"
+                classNames={{ title: "text-base sm:text-lg" }}
+                radius="lg"
+                variant="faded"
+              >
+                <div className="flex w-full flex-row flex-wrap justify-between gap-2 items-center">
+                  <h1 className="flex text-md sm:text-lg text-left font-semibold">
+                    An Error Occured
+                  </h1>
                 </div>
               </Alert>
             )}

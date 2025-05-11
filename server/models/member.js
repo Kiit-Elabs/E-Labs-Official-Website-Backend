@@ -33,6 +33,10 @@ const memberSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
+  phone: {
+    type: String,
+    required: true,
+  },
   linkedin: {
     type: String,
     required: false,

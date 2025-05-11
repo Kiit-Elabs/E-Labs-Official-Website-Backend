@@ -14,7 +14,7 @@ cloudinary.config({
 });
 
 // Load the test members JSON file
-const testMembers = JSON.parse(fs.readFileSync("./test.members.json", "utf-8"));
+const testMembers = JSON.parse(fs.readFileSync("../server/public/temp/test.members.json", "utf-8"));
 
 async function deleteTestMembers() {
   try {

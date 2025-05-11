@@ -38,6 +38,7 @@ export async function addMember(req, res) {
       name,
       email,
       image: uploadedFilePath,
+      phone: phone.toString(),
       linkedin,
       github,
       instagram,

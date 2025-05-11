@@ -1,371 +1,250 @@
 [{
   "_id": {
-    "$oid": "67d286ec58ad8b88fb17b1f7"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "web_dev"
-  ],
-  "name": "Asmet Sahoo",
-  "email": "24057021@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741850347/juyiudrorx1mgr2x6zpm.webp",
-  "linkedin": "https://www.linkedin.com/in/asmet-r-sahoo-199314243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  "github": "https://github.com/AsMetOP",
-  "instagram": "https://www.instagram.com/asmet.fr?igsh=MXJqbXZ6bDM3cTF5cw==",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d2791458ad8b88fb17b168"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "graphic",
-    "ui_ux"
-  ],
-  "name": "Krishna Gupta",
-  "email": "2307031@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741846803/rvgpgapgnreeqxctvhar.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "https://www.instagram.com/krishnagupta_0804?igsh=MWRnYzB2ZmxjMnZldw%3D%3D&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d27a7858ad8b88fb17b17e"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "graphic",
-    "ui_ux"
-  ],
-  "name": "Krishna Gupta",
-  "email": "2307031@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741847159/bll4eummnga5fftxbfkg.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "https://www.instagram.com/krishnagupta_0804?igsh=MWRnYzB2ZmxjMnZldw%3D%3D&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d27a8558ad8b88fb17b181"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "graphic",
-    "ui_ux"
-  ],
-  "name": "Krishna Gupta",
-  "email": "2307031@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741847172/iegbydoirgxm70bnvdrg.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "https://www.instagram.com/krishnagupta_0804?igsh=MWRnYzB2ZmxjMnZldw%3D%3D&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d27a9458ad8b88fb17b184"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "graphic",
-    "ui_ux"
-  ],
-  "name": "Krishna Gupta",
-  "email": "2307031@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741847188/prvber94ig0mx1sitex2.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "https://www.instagram.com/krishnagupta_0804?igsh=MWRnYzB2ZmxjMnZldw%3D%3D&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d27a9858ad8b88fb17b187"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "graphic",
-    "ui_ux"
-  ],
-  "name": "Krishna Gupta",
-  "email": "2307031@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741847191/y1wxjk0ry2limgqa3paf.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "https://www.instagram.com/krishnagupta_0804?igsh=MWRnYzB2ZmxjMnZldw%3D%3D&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d27a9b58ad8b88fb17b18a"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "graphic",
-    "ui_ux"
-  ],
-  "name": "Krishna Gupta",
-  "email": "2307031@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741847194/hcaii6vknztahqvvcqls.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "https://www.instagram.com/krishnagupta_0804?igsh=MWRnYzB2ZmxjMnZldw%3D%3D&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d27a9f58ad8b88fb17b18d"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "graphic",
-    "ui_ux"
-  ],
-  "name": "Krishna Gupta",
-  "email": "2307031@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741847199/m3aivdpucqomigtzw0ck.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "https://www.instagram.com/krishnagupta_0804?igsh=MWRnYzB2ZmxjMnZldw%3D%3D&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d27ac658ad8b88fb17b190"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "graphic",
-    "ui_ux"
-  ],
-  "name": "Krishna Gupta",
-  "email": "2307031@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741847237/qepvcjr0ygbmh50rrzta.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "https://www.instagram.com/krishnagupta_0804?igsh=MWRnYzB2ZmxjMnZldw%3D%3D&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d0154158ad8b88fb17ada4"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "android"
-  ],
-  "name": "Adhiraj Jain",
-  "email": "2430143@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741690176/mpv1xuwsoqouhjhnyxy9.jpg",
-  "linkedin": "https://www.linkedin.com/in/adhiraj-jain-032800316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  "github": "https://github.com/Adj82",
-  "instagram": "https://www.instagram.com/_.adhiraj___?igsh=NWlsNnJjMWtwZW04",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d08a6c58ad8b88fb17aed4"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "cyber_sec"
-  ],
-  "name": "Ashmita Singha ",
-  "email": "23052145@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741720171/powmuow2eetl4psztarj.jpg",
-  "linkedin": "https://www.linkedin.com/in/ashmita-singha-06ba30270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-  "github": "https://github.com/haera16",
-  "instagram": "",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d08a7f58ad8b88fb17aed7"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "cyber_sec"
-  ],
-  "name": "Ashmita Singha ",
-  "email": "23052145@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741720191/atnvagqumzvmpqflbsxx.jpg",
-  "linkedin": "https://www.linkedin.com/in/ashmita-singha-06ba30270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-  "github": "https://github.com/haera16",
-  "instagram": "",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67cfe3e158ad8b88fb17ac74"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "photography"
-  ],
-  "name": "Aditya Keshri",
-  "email": "2404073@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741677536/av6018ktoz0uai8xkvos.jpg",
-  "linkedin": "https://www.linkedin.com/in/aditya-keshri-960460321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  "github": "https://github.com/AdityaKeshri7011",
-  "instagram": "https://www.instagram.com/addy_ksri06?igsh=MWl0bXN1aWM1cnA1YQ==",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67cfe42d58ad8b88fb17ac7c"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "photography"
-  ],
-  "name": "Aditya Keshri",
-  "email": "2404073@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741677612/ndurtfskorjtmlupotiv.jpg",
-  "linkedin": "https://www.linkedin.com/in/aditya-keshri-960460321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  "github": "https://github.com/AdityaKeshri7011",
-  "instagram": "https://www.instagram.com/addy_ksri06?igsh=MWl0bXN1aWM1cnA1YQ==",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67cfe45c58ad8b88fb17ac83"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "photography"
-  ],
-  "name": "Aditya Keshri",
-  "email": "2404073@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741677659/iexq8uz0jcr8rcnsyp8d.jpg",
-  "linkedin": "https://www.linkedin.com/in/aditya-keshri-960460321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  "github": "https://github.com/AdityaKeshri7011",
-  "instagram": "https://www.instagram.com/addy_ksri06?igsh=MWl0bXN1aWM1cnA1YQ==",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67cfe9f258ad8b88fb17ace0"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "photography"
-  ],
-  "name": "Priyankar kundu ",
-  "email": "2405595@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741679090/hi63t9aovp9rbbmm1hcv.jpg",
-  "linkedin": "https://www.linkedin.com/in/priyankar-kundu-295032346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  "github": "",
-  "instagram": "https://www.instagram.com/priyankar_1234?igsh=MXZiYm11OXBrb3kxYw==",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67cfe80358ad8b88fb17acbc"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "photography"
-  ],
-  "name": "Simran Sajid ",
-  "email": "24155807@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741678594/wufkxgg5uvrelop4ehdy.jpg",
-  "linkedin": "https://www.linkedin.com/in/simran-sajid-89a062325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  "github": "",
-  "instagram": "https://www.instagram.com/simra.nn10?igsh=MWJzdHVpdmtvbHlxZg==",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67cfe97d58ad8b88fb17acd1"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "photography"
-  ],
-  "name": "Simran Sajid",
-  "email": "24155807@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741678973/ppw2yh6od688gj1nkgni.jpg",
-  "linkedin": "https://www.linkedin.com/in/simran-sajid-89a062325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  "github": "",
-  "instagram": "https://www.instagram.com/simra.nn10?igsh=MWJzdHVpdmtvbHlxZg==",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d04faf58ad8b88fb17ae51"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "cyber_sec"
-  ],
-  "name": "Ishan Gupta",
-  "email": "2330375@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741705134/tz5fveaffgyikl7jzu2s.jpg",
-  "linkedin": "https://www.linkedin.com/in/ishangupta2574/",
-  "github": "https://github.com/IsHaNGupta-2005",
-  "instagram": "https://www.instagram.com/.ishangupta12345678901.?igsh=MWsyZzh2dDh0amttNw==",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d1b88758ad8b88fb17b076"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "marketing"
-  ],
-  "name": "Shreyansh Das",
-  "email": "2305335@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741797510/gccrozuuzqbgdc2qnams.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "https://www.instagram.com/shreyd_027?igsh=MTN1dXl2d2FjbGFnaQ==",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d29b9b58ad8b88fb17b24a"
+    "$oid": "67d2df6158ad8b88fb17b30c"
   },
   "designation": "Member",
   "priority": 1,
   "domain": [
     "iot"
   ],
-  "name": "Anshika Naik",
-  "email": "2330013@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741855643/cuxqtxunf3kc1t813fev.jpg",
+  "name": "SUPRIT MANGARAJ",
+  "email": "2330127@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741872993/uefqa3ltvvhhu82zgzla.jpg",
   "linkedin": "",
-  "github": "",
-  "instagram": "https://www.instagram.com/ansh02ika?igsh=MWFvdHdid2h1NGp3cg==",
+  "github": "https://github.com/Suprit-Mangaraj",
+  "instagram": "https://www.instagram.com/suprit_mangaraj?igsh=eXdsMWM2bWU4MXBn",
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "67d022ef58ad8b88fb17addd"
+    "$oid": "68201d2e24e7fafa06ff4804"
+  },
+  "designation": "Assistant Lead",
+  "priority": 2,
+  "domain": [
+    "web_dev"
+  ],
+  "name": "Soumyadeep Kundu",
+  "email": "2305820@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_auto,g_auto/v1746935085/gbt7wm3j1fnonuc7mqci.jpg",
+  "linkedin": "https://www.linkedin.com/in/vanxodus305",
+  "github": "https://github.com/VanXodus305",
+  "instagram": "https://www.instagram.com/vanxodus305",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681f9f5324e7fafa06ff4782"
+  },
+  "designation": "Assistant Lead",
+  "priority": 2,
+  "domain": [
+    "web_dev"
+  ],
+  "name": "Soumyadeep Kundu",
+  "email": "2305820@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_auto,g_auto/v1746902866/g8skkliaatmnzlzqqvsl.jpg",
+  "linkedin": "https://www.linkedin.com/in/vanxodus305",
+  "github": "https://github.com/VanXodus305",
+  "instagram": "https://www.instagram.com/vanxodus305",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cff51a58ad8b88fb17ad37"
+  },
+  "designation": "Member",
+  "priority": 1,
+  "domain": [
+    "iot"
+  ],
+  "name": "Saurav Jena",
+  "email": "2404057@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741681945/sgt7cbqttx7mrgq4suvw.jpg",
+  "linkedin": "https://www.linkedin.com/in/saurav-jena-1a821b27a/",
+  "github": "https://github.com/Saurav-from-Hell",
+  "instagram": "https://www.instagram.com/sauravjena_/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cfee8458ad8b88fb17ad19"
+  },
+  "designation": "Member",
+  "priority": 1,
+  "domain": [
+    "iot"
+  ],
+  "name": "Sayan Das ",
+  "email": "2405301@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741680260/lwrphn6a0jszr7on9xv2.jpg",
+  "linkedin": "https://www.linkedin.com/in/sayan-das-7109a131a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  "github": "https://github.com/SAYAN3891",
+  "instagram": "https://www.instagram.com/sayan_3891?igsh=MXNhZXdkNzFpMWNhaQ==",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d29ee958ad8b88fb17b263"
+  },
+  "designation": "Member",
+  "priority": 1,
+  "domain": [
+    "arvr_game",
+    "marketing"
+  ],
+  "name": "TASARUN NASREEN ",
+  "email": "24158097@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741856489/tptxfuvre7zh9ghnowth.jpg",
+  "linkedin": "",
+  "github": "",
+  "instagram": "https://www.instagram.com/thetasreen_07?igsh=cTJkemwyaHkyMHg1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2d95258ad8b88fb17b2e6"
+  },
+  "designation": "Member",
+  "priority": 1,
+  "domain": [
+    "iot"
+  ],
+  "name": "TIYASA GHOSH",
+  "email": "2304131@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741871442/g4rwackpgfvir1aweds1.jpg",
+  "linkedin": "https://www.linkedin.com/in/tiyasa-ghosh-90b9b6347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  "github": " https://github.com/TiyasaGhosh13",
+  "instagram": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681f506624e7fafa06ff436d"
+  },
+  "designation": "Member",
+  "priority": 1,
+  "domain": [
+    "data_anal"
+  ],
+  "name": "Narayan Aravind",
+  "email": "2404042@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_auto,g_auto/v1746882661/cwgzoz7p3nna2qpwpbdn.jpg",
+  "linkedin": "https://www.linkedin.com/in/narayan-aravind-87723531a/",
+  "github": "https://github.com/chadthunder1",
+  "instagram": "https://www.instagram.com/_narayanaravind?igsh=N3prYWJvaXc0bXhs",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cff09b58ad8b88fb17ad20"
+  },
+  "designation": "Member",
+  "priority": 1,
+  "domain": [
+    "data_anal",
+    "iot"
+  ],
+  "name": "Narayan Aravind ",
+  "email": "2404042@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741680794/bchvfsrax4qoj4lbgcpy.jpg",
+  "linkedin": "https://www.linkedin.com/in/narayan-aravind-87723531a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  "github": "https://github.com/chadthunder1",
+  "instagram": "https://www.instagram.com/_narayanaravind?igsh=N3prYWJvaXc0bXhs",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2c7be58ad8b88fb17b2b8"
+  },
+  "designation": "Member",
+  "priority": 1,
+  "domain": [
+    "iot",
+    "marketing"
+  ],
+  "name": "CHIRAG KUNDU",
+  "email": "2404092@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741866941/imrcwkimwhool3xdbmbg.jpg",
+  "linkedin": "https://www.linkedin.com/in/chirag-kundu-6a35582a4",
+  "github": "",
+  "instagram": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d087ed58ad8b88fb17aec1"
+  },
+  "designation": "Member",
+  "priority": 1,
+  "domain": [
+    "cloud",
+    "iot"
+  ],
+  "name": "Saptarshi Sen",
+  "email": "24051734@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741719532/zxlkbbiwl0kofnhh65lx.jpg",
+  "linkedin": "https://www.linkedin.com/in/saptarshi-sen-/",
+  "github": "https://github.com/saptarshi-sen1",
+  "instagram": "https://www.instagram.com/saptarshisen06/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cff28d58ad8b88fb17ad2d"
+  },
+  "designation": "Member",
+  "priority": 1,
+  "domain": [
+    "iot",
+    "photography"
+  ],
+  "name": "Saanvi Patankar",
+  "email": "2404056@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741681292/vr1zf4w7bq3jrh47eqwo.jpg",
+  "linkedin": "https://www.linkedin.com/in/saanvi-patankar-bba9b134b/",
+  "github": "",
+  "instagram": "https://www.instagram.com/saanvi_patankar/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68201a2524e7fafa06ff47f6"
+  },
+  "designation": "Member",
+  "priority": 1,
+  "domain": [
+    "iot"
+  ],
+  "name": "Shantipriya Shastry",
+  "email": "24155956@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_auto,g_auto/v1746934309/icstuh2p2yxwhsyovu4k.jpg",
+  "linkedin": "",
+  "github": "",
+  "instagram": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d01ce958ad8b88fb17adc4"
+  },
+  "designation": "Member",
+  "priority": 1,
+  "domain": [
+    "iot",
+    "photography"
+  ],
+  "name": "Shantipriya Shastry",
+  "email": "24155956@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741692136/z5iu6elgc9bwmvpavn18.jpg",
+  "linkedin": "",
+  "github": "",
+  "instagram": "https://www.instagram.com/pri_yaxh?igsh=MTBmcTI4amo0Yzk1MQ==",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d022e858ad8b88fb17adda"
   },
   "designation": "Member",
   "priority": 1,
@@ -374,7 +253,7 @@
   ],
   "name": "Adrija Paul ",
   "email": "2404005@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741693678/upphbfrpaae5nhumzzkc.jpg",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741693672/k6oubtcuntz11tzgyw9i.jpg",
   "linkedin": "",
   "github": "",
   "instagram": "https://www.instagram.com/_adri018?igsh=MTEzbXBkOThiMnJhbA==",
@@ -382,377 +261,33 @@
 },
 {
   "_id": {
-    "$oid": "67d1af7a58ad8b88fb17b059"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "ui_ux"
-  ],
-  "name": "Danish Qureshi",
-  "email": "2306276@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741795194/otgam28udiuw0tlutvzw.jpg",
-  "linkedin": "https://www.linkedin.com/in/danish-qureshi-3aa837210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-  "github": "",
-  "instagram": "https://www.instagram.com/imdanishqureshi?igsh=dGJtcHg4NHh0bjJo&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d1afb458ad8b88fb17b05d"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "ui_ux"
-  ],
-  "name": "Danish Qureshi",
-  "email": "2306276@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741795251/nq18ltfeew3v32yioz0o.jpg",
-  "linkedin": "https://www.linkedin.com/in/danish-qureshi-3aa837210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-  "github": "",
-  "instagram": "https://www.instagram.com/imdanishqureshi?igsh=dGJtcHg4NHh0bjJo&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d28d4f58ad8b88fb17b20c"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "graphic",
-    "ui_ux"
-  ],
-  "name": "Danish Qureshi",
-  "email": "2306276@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741851982/qf2p7uyyrvxo5ulhg4ps.jpg",
-  "linkedin": "https://www.linkedin.com/in/danish-qureshi-3aa837210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7hQ%2FDcZlS%2Beh6isFeQQEvQ%3D%3D",
-  "github": "",
-  "instagram": "https://www.instagram.com/imdanishqureshi?igsh=dGJtcHg4NHh0bjJo&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d2bc7558ad8b88fb17b2a5"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "cloud"
-  ],
-  "name": "Sarthak Singh",
-  "email": "2306219@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741864050/esqbsewivnnjba5vcxdu.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "https://www.instagram.com/sarthakk2_/profilecard/?igsh=Nm1scjdrMGhwY2d2",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d31f7058ad8b88fb17b38c"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "web_dev"
-  ],
-  "name": "Mainak Basu",
-  "email": "2405358@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741889391/iw8fd0mqajaqstn0fngv.jpg",
-  "linkedin": "https://www.linkedin.com/in/mainak-basu-2a578b335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-  "github": "",
-  "instagram": "https://www.instagram.com/mainak_xx?igsh=YmtydTd3NjF5bmU2&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d31f7758ad8b88fb17b38f"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "web_dev"
-  ],
-  "name": "Mainak Basu",
-  "email": "2405358@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741889399/s7xzfs7zat9whb51xclb.jpg",
-  "linkedin": "https://www.linkedin.com/in/mainak-basu-2a578b335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-  "github": "",
-  "instagram": "https://www.instagram.com/mainak_xx?igsh=YmtydTd3NjF5bmU2&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d327d458ad8b88fb17b3a1"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "web_dev"
-  ],
-  "name": "Mainak Basu",
-  "email": "2405358@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741891539/blecrdlohi2un6fvk8de.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d3294858ad8b88fb17b3af"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "web_dev"
-  ],
-  "name": "Mainak Basu",
-  "email": "2405358@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741891912/qn4irutztxeazf2zivxn.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d3295358ad8b88fb17b3b2"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "web_dev"
-  ],
-  "name": "Mainak Basu",
-  "email": "2405358@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741891922/xdscpi7jpxerdej40rui.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d3295858ad8b88fb17b3b5"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "web_dev"
-  ],
-  "name": "Mainak Basu",
-  "email": "2405358@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741891927/ssmlei2zw8pdchldycci.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d3295e58ad8b88fb17b3ba"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "web_dev"
-  ],
-  "name": "Mainak Basu",
-  "email": "2405358@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741891933/pdebuiunncxsnrqg3grk.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d05a9b58ad8b88fb17ae71"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "arvr_game"
-  ],
-  "name": "Yashneil Narain Srivastava",
-  "email": "24051449@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741707931/arzlf3fooxkw3xpr7iom.png",
-  "linkedin": "https://www.linkedin.com/in/yashneil-srivastava-7678b832b/",
-  "github": "https://github.com/YashneilN",
-  "instagram": "https://www.instagram.com/yashneil_ns/",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67db0dda58ad8b88fb17bab4"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "arvr_game"
-  ],
-  "name": "Yashneil Narain Srivastava",
-  "email": "24051449@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1742409178/ovv8gkxelake0x5d8dvn.jpg",
-  "linkedin": "https://www.linkedin.com/in/yashneil-srivastava-7678b832b",
-  "github": "https://github.com/YashneilN",
-  "instagram": "https://www.instagram.com/yashneil_ns/profilecard/?igsh=aHVnc2Ntd3YydHhl",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d27cb058ad8b88fb17b1a8"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "cloud"
-  ],
-  "name": "Shreyash Pandey",
-  "email": "2405907@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741847728/bekvzxurcd91uhvcufs7.jpg",
-  "linkedin": "https://www.linkedin.com/in/shreyash-pandey-engineer0108",
-  "github": "https://github.com/codewithyash-push",
-  "instagram": "https://www.instagram.com/shreyash.img?igsh=MXAwaXE5NjZkM29hcA==",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d1374658ad8b88fb17afc7"
+    "$oid": "67d0c5ba58ad8b88fb17af2f"
   },
   "designation": "Member",
   "priority": 1,
   "domain": [
     "iot"
   ],
-  "name": "Sagnik Pal",
-  "email": "2330398@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741764422/axecnwgt4f3z1vyopf4u.jpg",
-  "linkedin": "https://www.linkedin.com/in/sagnik-pal-a6939727a/",
-  "github": "",
-  "instagram": "https://www.instagram.com/sagnik_pal_?igsh=djFhYWdmMjV6aG93&utm_source=qr",
+  "name": "Subhayan Dutta",
+  "email": "2330346@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741735354/ibk6yjizkon7xv5fenrx.jpg",
+  "linkedin": "https://www.linkedin.com/in/subhayan-dutta-457a4b2b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  "github": "https://github.com/",
+  "instagram": "https://www.instagram.com/subhayandutta_pvt.111?igsh=MWo1dm56cThha2VoNA==",
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "67d1374b58ad8b88fb17afca"
+    "$oid": "67d297cb58ad8b88fb17b23a"
   },
   "designation": "Member",
   "priority": 1,
   "domain": [
     "iot"
   ],
-  "name": "Sagnik Pal",
-  "email": "2330398@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741764426/u4uom7lgrkmwvtdynwqn.jpg",
-  "linkedin": "https://www.linkedin.com/in/sagnik-pal-a6939727a/",
-  "github": "",
-  "instagram": "https://www.instagram.com/sagnik_pal_?igsh=djFhYWdmMjV6aG93&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d1375658ad8b88fb17afcd"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "iot"
-  ],
-  "name": "Sagnik Pal",
-  "email": "2330398@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741764437/r1vz6p57law0laicykfo.jpg",
-  "linkedin": "https://www.linkedin.com/in/sagnik-pal-a6939727a/",
-  "github": "",
-  "instagram": "https://www.instagram.com/sagnik_pal_?igsh=djFhYWdmMjV6aG93&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d29b9858ad8b88fb17b247"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "graphic",
-    "java",
-    "marketing",
-    "ui_ux"
-  ],
-  "name": "Anangsha Laha",
-  "email": "23051163@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741855639/br0leat7mi6hlinrwblc.jpg",
-  "linkedin": "https://in.linkedin.com/in/anangsha-laha-191b50313",
-  "github": "https://github.com/anangshalaha",
-  "instagram": "https://www.instagram.com/lcv.files",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d27a3558ad8b88fb17b175"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "content"
-  ],
-  "name": "Anand Jadon ",
-  "email": "2305005@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741847092/f4ue8xrpt6ycrarmqhfe.jpg",
-  "linkedin": "https://www.linkedin.com/in/anand-jadon-59aba62ab",
-  "github": "",
-  "instagram": "https://www.instagram.com/ajadon16?igsh=MW1kZ3A3bzdyZW1rMA==",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67cfe48658ad8b88fb17ac8d"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "photography"
-  ],
-  "name": "Pranjal Singh ",
-  "email": "23052176@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741677702/bc6yyqboit0zbwvz9pfy.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "https://www.instagram.com/_pranjalsingh2610_?igsh=dGxmb3JxYjN2NHN6",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67cfe4e358ad8b88fb17ac92"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "photography"
-  ],
-  "name": "Pranjal Singh ",
-  "email": "23052176@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741677794/a7dyvvpjnwmxlaopjcl6.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "https://www.instagram.com/_pranjalsingh2610_?igsh=dGxmb3JxYjN2NHN6",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67cfe9f658ad8b88fb17ace5"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "cyber_sec"
-  ],
-  "name": "Piyush Agrawal",
-  "email": "23053436@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741679093/elkspec6soj5bj8tpoha.jpg",
+  "name": "Anshika Naik",
+  "email": "2330013@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741854666/jjdib9kbsybs5awiefqa.jpg",
   "linkedin": "",
   "github": "",
   "instagram": "",
@@ -760,207 +295,54 @@
 },
 {
   "_id": {
-    "$oid": "67d0465b58ad8b88fb17ae25"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "data_anal",
-    "iot"
-  ],
-  "name": "Narayan Aravind",
-  "email": "2404042@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741702746/ej8z76kyarsmfcqjapb6.jpg",
-  "linkedin": "https://www.linkedin.com/in/narayan-aravind-87723531a/",
-  "github": "https://github.com/chadthunder1",
-  "instagram": "https://www.instagram.com/_narayanaravind?igsh=N3prYWJvaXc0bXhs",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d092fa58ad8b88fb17aef5"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "marketing"
-  ],
-  "name": "Sreejit das",
-  "email": "2404126@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741722362/aobhxyh9ca6f2sjrnwbu.jpg",
-  "linkedin": "https://www.linkedin.com/in/sreejit-das-a08105356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  "github": "",
-  "instagram": "https://www.instagram.com/s.r.jit_ds?igsh=MWIwOW96bmVkODd6Mg==",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d27f5858ad8b88fb17b1d0"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "java"
-  ],
-  "name": "Sakshi Shreya ",
-  "email": "2305966@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741848407/jnlgeuelolzjsvylihws.jpg",
-  "linkedin": "https://www.linkedin.com/in/sakshi-shreya-a1891a345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-  "github": "",
-  "instagram": "https://www.instagram.com/_beingsakshi__?igsh=eTA0NTY4eGx5MmI2&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d27f6f58ad8b88fb17b1d3"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "java"
-  ],
-  "name": "Sakshi Shreya ",
-  "email": "2305966@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741848430/kmpyihdlwnmyshygdtfu.jpg",
-  "linkedin": "https://www.linkedin.com/in/sakshi-shreya-a1891a345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-  "github": "",
-  "instagram": "https://www.instagram.com/_beingsakshi__?igsh=eTA0NTY4eGx5MmI2&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d27fd158ad8b88fb17b1d8"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "java"
-  ],
-  "name": "Sakshi Shreya ",
-  "email": "2305966@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741848528/tdqtessorior23oxmp8a.jpg",
-  "linkedin": "https://www.linkedin.com/in/sakshi-shreya-a1891a345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-  "github": "",
-  "instagram": "https://www.instagram.com/_beingsakshi__?igsh=eTA0NTY4eGx5MmI2&utm_source=qr",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d2d72458ad8b88fb17b2d7"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "java"
-  ],
-  "name": "Sakshi Shreya",
-  "email": "2305966@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741870883/jspyx3mgvgkdp3t8deub.jpg",
-  "linkedin": "https://www.instagram.com/_beingsakshi__?igsh=eTA0NTY4eGx5MmI2&utm_source=qr",
-  "github": "",
-  "instagram": "https://www.linkedin.com/in/sakshi-shreya-a1891a345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d1101a58ad8b88fb17af7b"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "photography"
-  ],
-  "name": "Mahi Mandiwal",
-  "email": "23051918@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741754393/h7wcprjpczarixd8pbbu.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d1103958ad8b88fb17af7e"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "photography"
-  ],
-  "name": "Mahi Mandiwal",
-  "email": "23051918@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741754424/ylgdocfbcwnjhj1tgzxu.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d1107e58ad8b88fb17af82"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "photography"
-  ],
-  "name": "Mahi Mandiwal",
-  "email": "23051918@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741754494/j7kir1aos3yzipep0u51.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d110cb58ad8b88fb17af85"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "photography"
-  ],
-  "name": "Mahi Mandiwal ",
-  "email": "23051918@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741754569/ksktjccrmv0icltab2tc.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d110d458ad8b88fb17af88"
-  },
-  "designation": "Member",
-  "priority": 1,
-  "domain": [
-    "photography"
-  ],
-  "name": "Mahi Mandiwal ",
-  "email": "23051918@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741754580/t3kc5hybgfsaukux8xq3.jpg",
-  "linkedin": "",
-  "github": "",
-  "instagram": "",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "67d47f7658ad8b88fb17b4ff"
+    "$oid": "67d2a16a58ad8b88fb17b274"
   },
   "designation": "Member",
   "priority": 1,
   "domain": [
     "iot",
-    "marketing"
+    "java"
   ],
-  "name": "Janhvi ",
-  "email": "2330030@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741979509/s3jrmwtg585p0u8ixi1l.jpg",
-  "linkedin": "",
+  "name": "Samridhya Mukherjee",
+  "email": "2405681@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741857130/h56rkvljunw2iqohgeww.jpg",
+  "linkedin": "https://www.linkedin.com/in/samridhya-mukherjee-003081322/",
+  "github": "https://github.com/sammm-iee",
+  "instagram": "https://www.instagram.com/samm.ie1714/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d00f3958ad8b88fb17ad89"
+  },
+  "designation": "Member",
+  "priority": 1,
+  "domain": [
+    "iot"
+  ],
+  "name": "Pratity Roy ",
+  "email": "23051686@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741688632/fq5rdzxbg15zqtjifabn.jpg",
+  "linkedin": "https://www.linkedin.com/in/pratity-roy-76577a225",
+  "github": "https://github.com/pratity02",
+  "instagram": "https://www.instagram.com/alifferrous",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681f736324e7fafa06ff44f0"
+  },
+  "designation": "Member",
+  "priority": 1,
+  "domain": [
+    "graphic",
+    "ui_ux"
+  ],
+  "name": "Sulav Poudel",
+  "email": "23053592@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_auto,g_auto/v1746891618/xx5nyoczj6rka2kbznel.jpg",
+  "linkedin": "https://www.linkedin.com/in/sulav-poudel-813994348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
   "github": "",
-  "instagram": "",
+  "instagram": "https://www.instagram.com/sulav.designs?igsh=NjhnOWQydjBjbzRs",
   "__v": 0
 }]

@@ -1,33 +1,122 @@
 [{
   "_id": {
-    "$oid": "67cff52458ad8b88fb17ad3c"
+    "$oid": "6820bb966a6fdedd48d7a33e"
   },
-  "designation": "Assistant Lead",
-  "priority": 2,
+  "designation": "Lead",
+  "priority": 3,
   "domain": [
-    "photography"
+    "ml"
   ],
-  "name": "Rishi Raj Singh ",
-  "email": "2404052@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741681955/atita1ect2n1eaouktba.jpg",
-  "linkedin": "https://www.linkedin.com/in/rishi-raj-singh-75622a34a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  "name": "sneha gupta",
+  "email": "2230204@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_auto,g_auto/v1746975637/fy0cay4axeyoblgcbqex.jpg",
+  "phone": "8709002348",
+  "linkedin": "",
   "github": "",
   "instagram": "",
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "681f4b2324e7fafa06ff4341"
+    "$oid": "67d0abaf58ad8b88fb17af14"
+  },
+  "designation": "Assistant Lead",
+  "priority": 2,
+  "domain": [
+    "ui_ux"
+  ],
+  "name": "Arkabrata Roy",
+  "email": "2305284@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741728686/moegdvsh4vyxu4o1puiq.jpg",
+  "linkedin": "",
+  "github": "",
+  "instagram": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6820bec96a6fdedd48d7a35d"
+  },
+  "designation": "Lead",
+  "priority": 3,
+  "domain": [
+    "iot"
+  ],
+  "name": "Sumeet Singh",
+  "email": "2230131@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_auto,g_auto/v1746976456/heu8oquqmxvqizlgyhn7.jpg",
+  "phone": "9060014733",
+  "linkedin": "https://www.linkedin.com/in/sumeet-singh20",
+  "github": "https://github.com/Sumeet-05",
+  "instagram": "https://www.instagram.com/sumeet_singh_0503?igsh=MXNkZThxN2hxaGQ3Mg==",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6820be426a6fdedd48d7a35a"
+  },
+  "designation": "Lead",
+  "priority": 3,
+  "domain": [
+    "iot"
+  ],
+  "name": "Sumeet Singh",
+  "email": "2230131@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_auto,g_auto/v1746976321/uy7vpwslrkgidph9qlam.jpg",
+  "phone": "9060014733",
+  "linkedin": "https://www.linkedin.com/in/sumeet-singh20",
+  "github": "https://github.com/Sumeet-05",
+  "instagram": "https://www.instagram.com/sumeet_singh_0503?igsh=MXNkZThxN2hxaGQ3Mg==",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d01ca158ad8b88fb17adbf"
   },
   "designation": "Member",
   "priority": 1,
   "domain": [
-    "marketing"
+    "iot"
   ],
-  "name": "Sambhavi Singh ",
-  "email": "23053076@kiit.ac.in",
-  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_auto,g_auto/v1746881314/focv2ebeh9rtb6eh96m9.jpg",
-  "linkedin": "https://www.linkedin.com/in/sambhavi-singh-5223202a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  "name": "Swayam Mishra",
+  "email": "23052120@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741692064/vavqnmbcob6hnnfwtvwt.jpg",
+  "linkedin": "https://www.linkedin.com/in/swayammishra15",
+  "github": "https://github.com/swayam-mishra",
+  "instagram": "https://www.instagram.com/cow.syy/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d0040f58ad8b88fb17ad67"
+  },
+  "designation": "Member",
+  "priority": 1,
+  "domain": [
+    "photography"
+  ],
+  "name": "Snehashis Sarkar",
+  "email": "2430063@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_fill,g_auto/v1741685774/pg41kupiwfztyzxcuvo1.jpg",
+  "linkedin": "",
+  "github": "",
+  "instagram": "https://www.instagram.com/snehxshis?igsh=MWFiNjBwbXdsdTJzbw==",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6820bb3c6a6fdedd48d7a336"
+  },
+  "designation": "Member",
+  "priority": 1,
+  "domain": [
+    "ml"
+  ],
+  "name": "Aman Anubhav",
+  "email": "2305916@kiit.ac.in",
+  "image": "http://res.cloudinary.com/e-labs-members/image/upload/ar_1:1,c_auto,g_auto/v1746975547/a1v1hnldflvqmzvsvps9.jpg",
+  "phone": "7541872501",
+  "linkedin": "",
   "github": "",
   "instagram": "",
   "__v": 0

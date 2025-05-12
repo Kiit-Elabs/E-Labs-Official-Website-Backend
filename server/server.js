@@ -6,6 +6,7 @@ import eventRouter from "./routes/event-route.js";
 import feedbackRoute from "./routes/feedback-route.js";
 import memberRoute from "./routes/member-route.js";
 import testRoute from "./routes/test-route.js";
+import photosRoute from "./routes/photos-route.js";
 
 import cors from "cors";
 import { connect } from "./db/connect.js";
@@ -61,3 +62,4 @@ app.use("/events", eventRouter);
 
 app.use("/feedback", feedbackRoute);
 app.use("/member", memberRoute);
+app.use("/photos", photosRoute);

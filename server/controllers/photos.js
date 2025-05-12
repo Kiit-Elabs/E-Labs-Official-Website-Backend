@@ -1,35 +1,36 @@
-import Photo from "../models/events.js";
+import Photo from "../models/photos.js";
 import { uploadOnCloudinary } from "../utils/cloudinary.js";
 
 async function addPhotos(req, res) {
   const { eventId } = req.body;
 
   if (!eventId) {
-    return res.status(400).json({ error: "Missing fields !" });
+    return res.status(400).json({ error: "Missing fields!" });
   }
 
-  const file = req.file;
-  if (!file) {
-    return res.status(400).json({ error: "File is required." });
+  const files = req.files;
+  if (!files || files.length === 0) {
+    return res.status(400).json({ error: "Files are required." });
   }
 
   try {
-    const response = await uploadOnCloudinary(file.path);
+    files.forEach(async (file) => {
+      const response = await uploadOnCloudinary(file.path);
 
-    const photo = new Photo({
-      event_id: eventId,
-      url: response?.url,
+      const photo = new Photo({
+        event_id: eventId,
+        url: response?.url,
+      });
+
+      await photo.save();
     });
 
-    const data = await photo.save();
-
     res.status(200).json({
-      message: "Photo added successfully.",
-      photoId: data._id.toString(),
+      message: "Photos added successfully.",
     });
   } catch (error) {
     console.error(error);
-    res.status(500).json({ error: "Failed to add photo." });
+    res.status(500).json({ error: "Failed to add photos." });
   }
 }
 

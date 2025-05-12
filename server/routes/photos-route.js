@@ -8,7 +8,7 @@ import {
 
 const router = Router();
 
-router.post("/add-photos", upload.single("image"), addPhotos);
+router.post("/add-photos", upload.array("images"), addPhotos);
 router.get("/get-photos", getPhotos);
 
 export default router;

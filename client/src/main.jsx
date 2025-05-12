@@ -6,6 +6,7 @@ import AddEvent from "./pages/AddEvent.jsx";
 import AddMember from "./pages/AddMember.jsx";
 import User from "./pages/User.jsx";
 import Home from "./pages/Home.jsx";
+import AddPhotos from "./pages/AddPhotos.jsx";
 
 createRoot(document.getElementById("root")).render(
   <BrowserRouter>
@@ -14,6 +15,7 @@ createRoot(document.getElementById("root")).render(
         <Route path="/" element={<Home />} />
         <Route path="addmember" element={<AddMember />}></Route>
         <Route path="addevent" element={<AddEvent />}></Route>
+        <Route path="addphotos" element={<AddPhotos />}></Route>
         <Route path="/user/:userId" element={<User />}></Route>
         <Route
           path="*"

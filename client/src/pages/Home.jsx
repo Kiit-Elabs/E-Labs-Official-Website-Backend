@@ -16,12 +16,12 @@ const Home   = () => {
     {
       title: "Add Photos",
       image: "/Photo-Icon.png",
-      link: "/photos",
+      link: "/addphotos",
     },
     {
       title: "Add Projects",
       image: "/Project-Icon.png",
-      link: "/projects",
+      link: "/addprojects",
     },
   ];
 

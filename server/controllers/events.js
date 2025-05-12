@@ -59,7 +59,7 @@ async function addEvent(req, res) {
     const response = await uploadOnCloudinary(file.path);
     const uploadedFilePath = response?.url.replace(
       "/upload/",
-      "/upload/ar_1:1,c_auto,g_auto/"
+      "/upload/ar_1:1,c_auto,g_auto,f_auto/"
     );
 
     const event = new Event({

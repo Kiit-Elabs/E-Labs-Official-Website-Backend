@@ -35,7 +35,7 @@ const domains = [
   { label: "AI/ML", value: "ml" },
   { label: "AR/VR & Game Development", value: "arvr_game" },
   { label: "Java", value: "java" },
-  { label: "IoT & Embedded", value: "iot" },
+  { label: "IoT & Embedded Systems", value: "iot" },
   { label: "Cloud Computing", value: "cloud" },
   { label: "Marketing & PR", value: "marketing" },
   { label: "Content Writing", value: "content" },
